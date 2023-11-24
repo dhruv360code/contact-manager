@@ -47,8 +47,6 @@ npm run dev
 
 ## Screenshots
 
-[Screencast from 24-11-23 12:18:41 PM IST.webm](https://github.com/dhruv360code/contact-manager/assets/76557628/1b81c394-ee6a-49cc-b5c4-37ff020e41e9)
 ![Screenshot from 2023-11-24 12-38-49](https://github.com/dhruv360code/contact-manager/assets/76557628/509f93d4-7462-4dc7-a109-cd1e6692b141)
 ![Screenshot from 2023-11-24 12-38-42](https://github.com/dhruv360code/contact-manager/assets/76557628/20525c66-5baa-457e-a4a4-81f2f587954a)
 ![Screenshot from 2023-11-24 12-38-33](https://github.com/dhruv360code/contact-manager/assets/76557628/06608bcc-8f5c-4f1d-a2fe-ed678634c7ab)
-[Screencast from 24-11-23 12:18:41 PM IST.webm](https://github.com/dhruv360code/contact-manager/assets/76557628/7f694106-4c15-4d69-926a-aa8cac19e8dc)
